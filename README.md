@@ -1,0 +1,1 @@
+# QuickQR-QR-Code-Analysis-Tool
